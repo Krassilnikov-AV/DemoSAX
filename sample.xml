@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!-- Простой XML-файл для лабораторной работы №1 -->
+<root>
+    <user id="1" role="manager">
+        <first-name>Иван</first-name>
+        <family>Иванов</family>
+        <department title="Trade"/>
+    </user>
+    <user id="2" role="admin">
+        <first-name>Петр</first-name>
+        <family>Петров</family>
+        <department title="IT"/>
+    </user>
+    <user id="5" role="worker">
+        <first-name>Сидор</first-name>
+        <family>Сидоров</family>
+        <department title="Production"/>
+    </user>
+</root>
